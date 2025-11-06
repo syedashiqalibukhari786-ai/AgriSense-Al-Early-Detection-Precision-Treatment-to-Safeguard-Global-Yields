@@ -1,0 +1,1 @@
+# Detection-and-effective-treatment-of-agricultural-diseases
