@@ -1,1 +1,1 @@
-# Detection-and-effective-treatment-of-agricultural-diseases
+AgriSense Al: Early Detection & Precision Treatment to Safeguard Global Yields
